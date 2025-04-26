@@ -6,9 +6,9 @@ Show the menu:
 
 0) Exit
 
-**Human Guesser**
+1) Human Guesser
 
-Computer Guesser
+2) Computer Guesser
 
 Ask the user to pick an option (0, 1, or 2).
 
@@ -28,7 +28,7 @@ If the guess is too low, say "too low..."
 
 If the guess is right, say "got it!" and end the guessing.
 
-Count how many tries it took (optional, but nice).
+Count how many tries it took.
 
 **Computer Guesser Mode**
 
